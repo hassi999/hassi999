@@ -17,7 +17,7 @@
 
 ### 🤝 Connect with me  
 <p align="left">
-<a href="https://twitter.com/@rtzz_999 target="blank"><img src="https://img.shields.io/twitter/follow/hassi_999?logo=twitter&style=for-the-badge" alt="hassi_999" /></a>
+<a href="https://twitter.com/rtzz_999 target="blank"><img src="https://img.shields.io/twitter/follow/hassi_999?logo=twitter&style=for-the-badge" alt="@rtzz_999" /></a>
 <a href="https://fb.com/profile.php?id=100037098759322" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://instagram.com/hassi_999" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
