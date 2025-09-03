@@ -16,7 +16,7 @@
 ---
 ### 🤝 Connect with me  
 <p align="left">
-<a href="https://twitter.com/hassi_999" target="blank">
+<a href="https://twitter.com/rtz_999" target="blank">
   <img src="https://img.shields.io/twitter/follow/hassi_999?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
 </a>
 <a href="https://fb.com/profile.php?id=100037098759322" target="blank">
