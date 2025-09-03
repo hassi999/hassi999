@@ -14,12 +14,17 @@
 - ⚡ Fun fact: I love debugging more than coding 😅  
 
 ---
-
 ### 🤝 Connect with me  
 <p align="left">
-<a href="https://twitter.com/hassi_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassi_999" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100037098759322" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://instagram.com/hassi_999" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://twitter.com/hassi_999" target="blank">
+  <img src="https://img.shields.io/twitter/follow/hassi_999?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+</a>
+<a href="https://fb.com/profile.php?id=100037098759322" target="blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://instagram.com/hassi_999" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 </p>
 
 ---
