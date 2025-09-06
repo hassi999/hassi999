@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
 
 <p align="center">
-  🌐 <a href="https://your-portfolio.vercel.app](https://beautiful-responsive-portfolio-5uc22gi35.vercel.app" target="_blank"><b>Check out my Portfolio</b></a>
+  🌐 <a href="https://beautiful-responsive-portfolio-5uc22gi35.vercel.app/" target="_blank"><b>Check out my Portfolio</b></a>
 </p>
 
 <p align="center">
