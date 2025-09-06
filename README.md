@@ -2,8 +2,11 @@
 <h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
 
 <p align="center">
-  🌐 <a href="https://beautiful-responsive-portfolio-5uc22gi35.vercel.app/" target="_blank"><b>Check out my Portfolio</b></a>
+  <a href="https://beautiful-responsive-portfolio-5uc22gi35.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hassi999&label=Profile%20views&color=0e75b6&style=flat" alt="hassi999" />
