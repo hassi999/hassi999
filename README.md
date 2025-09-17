@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
+<h3 align="center">A Curious Full-Stack Explorer 🚀 | Debugging Enthusiast 🐞 | MERN & Next.js Learner 🔥</h3>
+
+<p align="center">
+  🌍 From Pakistan | 💻 Passionate about building scalable web apps | ✨ Always hungry to learn new tech
+</p>
 
 <p align="center">
   <a href="https://beautiful-responsive-portfolio-5uc22gi35.vercel.app/">
     <img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hassi999&label=Profile%20views&color=0e75b6&style=flat" alt="hassi999" />
@@ -15,12 +18,13 @@
 ---
 
 ### 🌟 About Me  
-- 🌱 I’m currently learning **Next.js with TypeScript**  
-- 💻 I love building **MERN stack applications**  
+- 🌱 Currently learning **Next.js with TypeScript**  
+- 💻 Building **MERN stack applications**  
 - 📫 Reach me at: **huzaifak076@gmail.com**  
-- ⚡ Fun fact: I love debugging more than coding 😅  
+- ⚡ Fun fact: I enjoy **debugging more than coding** 😅  
 
 ---
+
 ### 🤝 Connect with me  
 <p align="left">
 <a href="https://twitter.com/rtzz_999" target="blank">
@@ -45,7 +49,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassi999&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hassi999&show_icons=true&theme=radical&cache_seconds=86400" alt="stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassi999&theme=radical" alt="streak" height="165"/>
 </p>
 
@@ -53,7 +57,7 @@
 
 ### 🚀 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassi999&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassi999&layout=compact&theme=radical&cache_seconds=86400" alt="top langs" />
 </p>
 
 ---
@@ -62,5 +66,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
 </p>
-
-
