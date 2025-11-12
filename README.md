@@ -27,16 +27,16 @@
 
 ### 🤝 Connect with me  
 <p align="left">
-<a href="https://twitter.com/rtzz_999" target="blank">
+<a href="https://twitter.com/rtzz_999" target="_blank">
   <img src="https://img.shields.io/twitter/follow/hassi_999?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
 </a>
-<a href="https://fb.com/profile.php?id=100037098759322" target="blank">
+<a href="https://fb.com/profile.php?id=100037098759322" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="https://instagram.com/hassi_999" target="blank">
+<a href="https://instagram.com/hassi_999" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://www.linkedin.com/in/hassan-khan-668963384/" target="blank">
+<a href="https://www.linkedin.com/in/hassan-khan-668963384/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   
