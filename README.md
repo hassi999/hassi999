@@ -20,7 +20,7 @@
 ### 🌟 About Me  
 - 🌱 Currently learning **Next.js with TypeScript**  
 - 💻 Building **MERN stack applications**  
-- 📫 Reach me at: **huzaifak076@gmail.com**  
+- 📫 Reach me at: **hassaniu619@gmail.com**  
 - ⚡ Fun fact: I enjoy **debugging more than coding** 😅  
 
 ---
@@ -36,6 +36,10 @@
 <a href="https://instagram.com/hassi_999" target="blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+<a href="https://www.linkedin.com/in/hassan-khan-668963384/">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twiiter"/>
+</a>
+  
 </p>
 
 ---
