@@ -36,7 +36,7 @@
 <a href="https://instagram.com/hassi_999" target="blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://www.linkedin.com/in/hassan-khan-668963384/">
+<a href="https://www.linkedin.com/in/hassan-khan-668963384/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   
